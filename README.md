@@ -3,7 +3,6 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube--red)]()
 [![Linkedin Badge](https://img.shields.io/badge/-Rehan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rehan-bate-660177225/)](www.linkedin.com/in/rehan-bate-660177225/)
-[![Linkedin Badge](https://img.shields.io/badge/-Rehan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rehan-bate-660177225/)](www.linkedin.com/in/rehan-bate-660177225/)
 [![Website Badge](https://img.shields.io/badge/WebSite--green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rehan-yellow)](https://stackoverflow.com/users/18879891/rehan-bate-)
 
