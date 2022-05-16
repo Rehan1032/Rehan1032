@@ -1,5 +1,5 @@
 
-[![MasterHead](<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)]
+[![MasterHead]( https://tenor.com/view/coding-gif-24297652)]
 <h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan1032&label=Profile%20views&color=0e75b6&style=flat" alt="rehan1032" /> </p>
