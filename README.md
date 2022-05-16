@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src=https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gifwidth="100"/>
   <div id="badges">
 <h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
